@@ -1,4 +1,3 @@
-# import the necessary packages
 from bs4 import BeautifulSoup
 from requests import Session
 import telebot
